@@ -1,0 +1,16 @@
+{
+  "name": "node_cf",
+  "version": "1.0.0",
+  "description": "cf app with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Suryakant Soni",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "pg": "^8.7.3"
+  }
+}
